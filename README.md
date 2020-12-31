@@ -2,25 +2,27 @@
 
 Tópicos estudados:
 
-👉 Anatomia CSS
-👉 CSS Interno, Externo e Inline
-👉 Classe
-👉 Seletores
-👉 Especifidade
-👉 Herança
-👉 Box Model
-👉 Margin Collapse
-👉 Display
-👉 Altura e Largura
-👉 Box Sizing
-👉 Overflow
-👉 Float
-👉 Cores
-👉 Unidades
-👉 Texto
-👉 Position
-👉 Media Query
-👉 Flex Box
-👉 CSS Grid
+<ul type="none">
+  <li>👉 Anatomia CSS
+  <li>👉 CSS Interno, Externo e Inline
+  <li>👉 Classe
+  <li>👉 Seletores
+  <li>👉 Especifidade
+  <li>👉 Herança
+  <li>👉 Box Model
+  <li>👉 Margin Collapse
+  <li>👉 Display
+  <li>👉 Altura e Largura
+  <li>👉 Box Sizing
+  <li>👉 Overflow
+  <li>👉 Float
+  <li>👉 Cores
+  <li>👉 Unidades
+  <li>👉 Texto
+  <li>👉 Position
+  <li>👉 Media Query
+  <li>👉 Flex Box
+  <li>👉 CSS Grid
+</ul>
 
 E só 😀.
